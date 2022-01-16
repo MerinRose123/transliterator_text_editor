@@ -1,0 +1,8 @@
+backports.functools-lru-cache==1.6.4
+click==7.1.2
+indic-transliteration==2.3.5
+regex==2020.10.11
+selenium==3.141.0
+toml==0.10.2
+typer==0.3.2
+urllib3==1.26.8
