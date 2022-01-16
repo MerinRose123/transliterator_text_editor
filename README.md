@@ -19,7 +19,7 @@ Tkinter is used for text editor creation and indic-transliteration is used for t
   * The text editor is self-explanatory.
   
 
-![Text editor image](https://github.com/MerinRose123/transliterator_text_editor/blob/main/text_editor.png?raw=true)
+![Text editor image](https://github.com/MerinRose123/transliterator_text_editor/blob/main/text_editor_image.png?raw=true)
 
 
 # Features
